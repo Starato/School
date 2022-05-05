@@ -1,0 +1,16 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\bin\Debug\net5.0\Document.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\bin\Debug\net5.0\Document.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\bin\Debug\net5.0\Document.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\bin\Debug\net5.0\Document.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\bin\Debug\net5.0\Document.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\bin\Debug\net5.0\ref\Document.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\bin\Debug\net5.0\Document.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\Document.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\Document.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\Document.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\Document.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\Document.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\Document.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\ref\Document.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\Document.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Document\obj\Debug\net5.0\Document.genruntimeconfig.cache
