@@ -1,0 +1,16 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\bin\Debug\net5.0\Payroll.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\bin\Debug\net5.0\Payroll.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\bin\Debug\net5.0\Payroll.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\bin\Debug\net5.0\Payroll.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\bin\Debug\net5.0\Payroll.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\bin\Debug\net5.0\ref\Payroll.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\bin\Debug\net5.0\Payroll.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\Payroll.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\Payroll.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\Payroll.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\Payroll.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\Payroll.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\ref\Payroll.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\Payroll.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Payroll\obj\Debug\net5.0\Payroll.genruntimeconfig.cache
