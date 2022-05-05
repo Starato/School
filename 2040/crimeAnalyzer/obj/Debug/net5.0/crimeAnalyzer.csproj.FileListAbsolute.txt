@@ -1,0 +1,16 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\bin\Debug\net5.0\crimeAnalyzer.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\bin\Debug\net5.0\crimeAnalyzer.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\bin\Debug\net5.0\crimeAnalyzer.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\bin\Debug\net5.0\crimeAnalyzer.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\bin\Debug\net5.0\crimeAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\bin\Debug\net5.0\ref\crimeAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\bin\Debug\net5.0\crimeAnalyzer.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\crimeAnalyzer.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\crimeAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\crimeAnalyzer.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\crimeAnalyzer.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\crimeAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\crimeAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\ref\crimeAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\crimeAnalyzer.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\crimeAnalyzer\obj\Debug\net5.0\crimeAnalyzer.genruntimeconfig.cache
