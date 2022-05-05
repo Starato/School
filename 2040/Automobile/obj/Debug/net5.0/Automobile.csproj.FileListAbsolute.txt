@@ -1,0 +1,16 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\bin\Debug\net5.0\Automobile.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\bin\Debug\net5.0\Automobile.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\bin\Debug\net5.0\Automobile.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\bin\Debug\net5.0\Automobile.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\bin\Debug\net5.0\Automobile.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\bin\Debug\net5.0\ref\Automobile.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\bin\Debug\net5.0\Automobile.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\Automobile.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\Automobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\Automobile.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\Automobile.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\Automobile.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\Automobile.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\ref\Automobile.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\Automobile.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Automobile\obj\Debug\net5.0\Automobile.genruntimeconfig.cache
