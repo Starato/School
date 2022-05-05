@@ -1,0 +1,16 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\Midterm.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\Midterm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\Midterm.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\Midterm.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\Midterm.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\bin\Debug\net5.0\Midterm.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\bin\Debug\net5.0\Midterm.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\bin\Debug\net5.0\Midterm.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\bin\Debug\net5.0\Midterm.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\bin\Debug\net5.0\Midterm.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\bin\Debug\net5.0\ref\Midterm.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\bin\Debug\net5.0\Midterm.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\Midterm.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\ref\Midterm.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\Midterm.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Midterm\obj\Debug\net5.0\Midterm.genruntimeconfig.cache
