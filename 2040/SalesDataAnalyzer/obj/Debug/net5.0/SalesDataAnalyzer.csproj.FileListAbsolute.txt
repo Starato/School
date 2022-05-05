@@ -1,0 +1,16 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\SalesDataAnalyzer.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\SalesDataAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\SalesDataAnalyzer.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\SalesDataAnalyzer.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\SalesDataAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\bin\Debug\net5.0\SalesDataAnalyzer.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\bin\Debug\net5.0\SalesDataAnalyzer.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\bin\Debug\net5.0\SalesDataAnalyzer.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\bin\Debug\net5.0\SalesDataAnalyzer.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\bin\Debug\net5.0\SalesDataAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\bin\Debug\net5.0\ref\SalesDataAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\bin\Debug\net5.0\SalesDataAnalyzer.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\SalesDataAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\ref\SalesDataAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\SalesDataAnalyzer.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\SalesDataAnalyzer\obj\Debug\net5.0\SalesDataAnalyzer.genruntimeconfig.cache
