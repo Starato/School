@@ -1,0 +1,32 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\bin\Debug\net5.0\Final Project.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\bin\Debug\net5.0\Final Project.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\bin\Debug\net5.0\Final Project.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\bin\Debug\net5.0\Final Project.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\bin\Debug\net5.0\Final Project.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\bin\Debug\net5.0\ref\Final Project.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\bin\Debug\net5.0\Final Project.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\Final Project.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\Final Project.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\Final Project.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\ref\Final Project.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\Final Project.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Final Project\obj\Debug\net5.0\Final Project.genruntimeconfig.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\bin\Debug\net5.0\Final Project.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\bin\Debug\net5.0\Final Project.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\bin\Debug\net5.0\Final Project.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\bin\Debug\net5.0\Final Project.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\bin\Debug\net5.0\Final Project.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\bin\Debug\net5.0\ref\Final Project.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\bin\Debug\net5.0\Final Project.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\Final Project.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\Final Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\Final Project.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\Final Project.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\Final Project.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\ref\Final Project.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\Final Project.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\Final_Project\obj\Debug\net5.0\Final Project.genruntimeconfig.cache
