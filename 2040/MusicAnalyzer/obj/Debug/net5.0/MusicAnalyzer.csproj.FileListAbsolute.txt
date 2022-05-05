@@ -1,0 +1,16 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\bin\Debug\net5.0\MusicAnalyzer.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\bin\Debug\net5.0\MusicAnalyzer.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\bin\Debug\net5.0\MusicAnalyzer.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\bin\Debug\net5.0\MusicAnalyzer.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\bin\Debug\net5.0\MusicAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\bin\Debug\net5.0\ref\MusicAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\bin\Debug\net5.0\MusicAnalyzer.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\MusicAnalyzer.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\MusicAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\MusicAnalyzer.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\MusicAnalyzer.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\MusicAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\MusicAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\ref\MusicAnalyzer.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\MusicAnalyzer.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\MusicAnalyzer\obj\Debug\net5.0\MusicAnalyzer.genruntimeconfig.cache
