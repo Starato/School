@@ -1,0 +1,15 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\bin\Debug\net6.0\helloWorld.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\bin\Debug\net6.0\helloWorld.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\bin\Debug\net6.0\helloWorld.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\bin\Debug\net6.0\helloWorld.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\bin\Debug\net6.0\ref\helloWorld.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\bin\Debug\net6.0\helloWorld.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\helloWorld.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\helloWorld.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\helloWorld.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\ref\helloWorld.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\helloWorld.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\helloWorld\obj\Debug\net6.0\helloWorld.genruntimeconfig.cache
