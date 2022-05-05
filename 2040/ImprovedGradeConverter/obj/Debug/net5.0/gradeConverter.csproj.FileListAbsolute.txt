@@ -1,0 +1,16 @@
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\bin\Debug\net5.0\gradeConverter.exe
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\bin\Debug\net5.0\gradeConverter.deps.json
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\bin\Debug\net5.0\gradeConverter.runtimeconfig.json
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\bin\Debug\net5.0\gradeConverter.runtimeconfig.dev.json
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\bin\Debug\net5.0\gradeConverter.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\bin\Debug\net5.0\ref\gradeConverter.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\bin\Debug\net5.0\gradeConverter.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\gradeConverter.csproj.AssemblyReference.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\gradeConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\gradeConverter.AssemblyInfoInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\gradeConverter.AssemblyInfo.cs
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\gradeConverter.csproj.CoreCompileInputs.cache
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\gradeConverter.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\ref\gradeConverter.dll
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\gradeConverter.pdb
+C:\Users\stuwu\Desktop\School\SP22\2040\gradeConverter\obj\Debug\net5.0\gradeConverter.genruntimeconfig.cache
