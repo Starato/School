@@ -1,0 +1,52 @@
+getAndFilterInput():
+    ask the user for 1st word
+    ask the user for 2nd word
+
+    use for loop to filter out invalid characters such as numbers
+    and special characters
+        if character in 1st word is not empty and an alphabet
+            send it to filtered string
+        if character in 2nd word is not empty and an alphabet
+            send it to filtered string
+    
+    send the new strings to an array, so we return 1 object rather
+    than 2
+
+checkAnagramAndPalindrome(array with filtered strings):
+    filter the string to all lower case for comparison
+    
+    make a dictionary with all the variables for condition check
+
+    if the length of the strings are not equal
+        append an error message to dictionary
+        return dictionary
+
+    if sorted string 1 and sorted string 2 are equal
+        update dictionary anagram status to True
+
+    if reversed string 1 and string 2 are equal
+        update dictionary palindrome status to True
+
+    return dictionary
+
+results(dictionary):
+    To check condition and print out message for user
+
+    if palindrome is false and anagram is True
+        both strings are anagrams, but not palindrome
+    if palindrome is true and anagram is false
+        both strings are palindrome but not anagram
+    if palindrome and anagram is true
+        both strings are palindrome and anagram
+
+main():
+    fire all the other functions
+
+
+
+BigO:
+The for loop in input function is iterating through 2 strings which should be O(n)
+There are 2 sorted() method when looking at palindromes, which are iterating through a string which each
+of them be O(n).
+
+Adding them together to get 0(2n), which simplifies to O(n)
