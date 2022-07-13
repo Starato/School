@@ -4,6 +4,10 @@ def dateFormatCheck(userDate):
 
     #check if given date is numerical
     ymd = userDate.split("-")
+    if len(ymd) != 3:
+        print("Please use the correct format(YYYY-MM-DD).")
+        return startDate()
+
     for digit in ymd:
         if not digit.isdigit():
             print("Please enter numerical values only.")
@@ -32,6 +36,4 @@ def startDate():
     userDate = input("Enter the start date (YYYY-MM-DD): ")
     dateFormatCheck(userDate)
         
-    
-
 startDate()
